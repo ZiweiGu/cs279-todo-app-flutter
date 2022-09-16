@@ -10,4 +10,4 @@ And then run:
 flutter run
 ```
 
-When asked which system to run on, choose "Chrome" to run a web app demo in Google Chrome.
+When asked which system to run on, choose "Chrome" to run a web app demo in Google Chrome. The app supports basic CRUD (Create, Read, Update, Delete) operations.
